@@ -3,5 +3,5 @@ package sayHello
 import "fmt"
 
 func SayHello() {
-	fmt.Println("Hello first module")
+	fmt.Println("Hello new update module")
 }
